@@ -1,0 +1,35 @@
+{"type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "!@!",
+    "$s$ ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "s": {
+      "item":
+      "minecraft:nether_star"
+    },
+    "!": {
+      "item":
+      "minecraft:minecraft:iron_block"
+    },
+    "@": {
+      "item":
+      "voidtales:crystalvoid"
+    },
+    "$": {
+      "item":
+      "minecraft:diamond_block"
+    }
+
+  },
+  "result": {
+    "item": "voidtales:mithrix_hammer",
+    "count": 1
+  }
+}
+

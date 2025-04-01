@@ -1,0 +1,24 @@
+{
+  "one_left_active": {
+    "subtitle": "sounds.voidtales.one_left_active",
+    "sounds": [
+      "voidtales:one_left_active"
+    ]
+  },
+  "one_left_awakening": {
+    "subtitle": "sounds.voidtales.one_left_awakening",
+    "sounds": [
+      "voidtales:one_left_awakening"
+    ]
+  },
+  "voidmero_wholsomearse":{
+     "sounds": [
+     {
+       "name": "voidtales:voidmero_wholsomearse",
+       "stream": true
+     }
+       ]
+}
+
+
+}

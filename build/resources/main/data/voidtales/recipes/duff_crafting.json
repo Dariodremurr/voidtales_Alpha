@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#s#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "voidtales:homero"
+    },
+    "s": {
+      "item":
+      "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "voidtales:duff",
+    "count": 8
+  }
+}
+
+
+
+"key": {
+"#": {
+"item": "minecraft:stick"
+},
+"s": {
+"item":
+"minecraft:nether_star"
+},
+"!": {
+"item":
+"minecraft:minecraft:iron_block"
+},
+"@": {
+"item":
+"voidtales:crystalvoid"
+},
+"$": {
+"item":
+"minecraft:diamond_block"
+}
+
+},
+"result": {
+"item": "voidtales:mithrix_hammer",
+"count": 1
+}
+}

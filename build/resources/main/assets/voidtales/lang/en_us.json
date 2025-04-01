@@ -1,0 +1,20 @@
+{
+  "item.voidtales.crystalvoid": "Crystal void",
+  "item.voidtales.homero": "Homero",
+  "block.voidtales.voidbadu_block": "Void badu",
+  "item.voidtales.duff": "Cerveza Duff",
+  "item.voidtales.metal_detector": "Metal detector",
+  "block.voidtales.sound_block":"Banjo block",
+  "item.voidtales.taco": "Tacos",
+  "item.voidtales.sulfuric_fuel": "Sulfuric fuel",
+  "block.voidtales.sulfuric_pillar": "Sulfuric pillar",
+  "tooltip.voidtales.metal_detector.tooltip": "Find if its any valuable objets underground",
+  "item.voidtales.contexto": "Contexto",
+  "item.voidtales.contexto_pickaxe": "Contexto pickaxe",
+  "item.voidtales.mithrix_hammer": "The hand of the nothing king",
+  "tooltip.voidtales.mithrix_hammer.tooltip": "Once a weapon use in fury against its own blood",
+  "item.voidtales.miasma_mantle": "Miasma mantle",
+  "item.voidtales.contexto_music_disk": "contexto disk",
+  "item.voidtales.contexto_music_disk.desc": "la lost media perdida",
+  "sounds.voidtales.one_left_active": "Awakening cry"
+}

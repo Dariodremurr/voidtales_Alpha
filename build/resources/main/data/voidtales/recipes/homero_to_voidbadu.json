@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "voidtales:homero"
+    }
+  },
+  "result": {
+    "item": "voidtales:voidbadu_block"
+  }
+}

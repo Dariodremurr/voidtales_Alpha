@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "voidtales",
+	"version": "Alpha 1",
+	"name": "void tales",
+	"description": "A experimental mod from a beginning coder ",
+	"authors": [
+		"Dariodremurr"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Dariodremurr/Void-Tales"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/voidtales/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dariodremurr.voidtales.Voidtales"
+		],
+		"client": [
+			"net.dariodremurr.voidtales.VoidtalesClient"
+		],
+		"fabric-datagen": [
+			"net.dariodremurr.voidtales.VoidtalesDataGenerator"
+		]
+	},
+	"mixins": [
+		"voidtales.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "1.20.1",
+		"fabric": "*",
+		"geckolib": ">=4.4.2"
+
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

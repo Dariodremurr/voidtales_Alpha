@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "voidtales:voidbadu_block"
+    }
+  ],
+  "result": {
+    "item":"voidtales:homero",
+    "count": 9
+  }
+}
