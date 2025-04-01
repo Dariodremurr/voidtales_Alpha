@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-07 23:10:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-07 23:10:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-07 23:10:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-07 23:10:23 -0300",
+      "minecraft:meadow": "2025-03-07 23:10:15 -0300"
+    },
+    "done": false
+  },
+  "voidtales:recipes/decorations/voidbadu_block": {
+    "criteria": {
+      "has_homero": "2025-03-07 23:10:13 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

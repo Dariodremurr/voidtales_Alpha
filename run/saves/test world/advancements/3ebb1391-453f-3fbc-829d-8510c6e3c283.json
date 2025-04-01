@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-07 19:31:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-03-07 19:31:37 -0300",
+      "minecraft:forest": "2025-03-07 19:34:42 -0300",
+      "minecraft:meadow": "2025-03-07 19:31:28 -0300"
+    },
+    "done": false
+  },
+  "voidtales:recipes/decorations/voidbadu_block": {
+    "criteria": {
+      "has_homero": "2025-03-07 19:31:24 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
